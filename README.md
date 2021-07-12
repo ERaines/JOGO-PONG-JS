@@ -15,6 +15,6 @@ Basta clonar este projeto e abrir o arquivo index.html com seu navegador.
 
 ## Exemplo
 
-<img src="https://github.com/ERaines/JOGO-PONG-JS/blob/main/print.PNG" alt="print" width="700"/>
+<img src="https://github.com/ERaines/JOGO-PONG-JS/blob/main/print.PNG" alt="print" width="400"/>
 
 
