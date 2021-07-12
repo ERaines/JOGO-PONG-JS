@@ -1,16 +1,16 @@
 # JOGO PONG em JS
 
-Recriando o jogo classico jogo Pong em JavaScrip.
+Recriando o jogo clássico jogo Pong em JavaScrip.
 
 
 ## Objetivo do Projeto
 
-Este projeto foi desenvolvido durate o curso "Iniciante em JS" do site [Alura](https://www.alura.com.br/)
+Este projeto foi desenvolvido durante o curso "Iniciante em JS" do site [Alura](https://www.alura.com.br/)
  
  
 ## Como jogar
 
-Basta clonar este projeto e abrir o arquivo index com seu navegador.
+Basta clonar este projeto e abrir o arquivo index.html com seu navegador.
 
 
 ## Exemplo
